@@ -3,3 +3,7 @@ class A {
         System.out.println("Hii, Geetika");
     }
 }
+
+/*
+ * code compilation successfull
+ */

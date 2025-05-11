@@ -1,0 +1,5 @@
+step 1: create a repository in GitHub.
+step 2: create or initialize the local folder: git init
+step 3: add the files you want to move in GitHub : git add filename.ext
+step 4: add a commit msg for this file: git commit -m "your commit msg"
+step 5: push the file on GitHub : git push  
